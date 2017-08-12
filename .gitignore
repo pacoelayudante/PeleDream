@@ -1,0 +1,11 @@
+syntax: glob
+Library
+Temp
+Animaciones
+Texturas
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
+*.unitypackage
